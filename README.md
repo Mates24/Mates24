@@ -5,7 +5,7 @@
 
 ## Facts about me
 🏒 I play hockey for Black Horse in Liptov Hockey League. <br>
-⛵ My second hobby is sailing. I have my own rank C captain license.
+⛵ My second hobby is sailing. I've got rank C captain license.
 
 ### Interesting motivational quotes
 > You miss 100% of the shots you don't take. - Wayne Gretzky
