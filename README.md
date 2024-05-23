@@ -4,7 +4,7 @@
 - Currently I’m learning PHP 🐘
 
 ## Facts about me
-🏒 I play hockey for Black Horse in Liptov Hockey League. <br>
+🏒 I play ice hockey for Black Horse in Liptov Hockey League. <br>
 ⛵ My second hobby is sailing. I've got rank C captain license.
 
 ### Interesting motivational quotes
