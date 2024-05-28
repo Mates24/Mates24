@@ -1,6 +1,6 @@
 # Hello, I’m Mathias
 - I'm 18 years old High School student 🏫
-- Interested in app and web development
+- Interested in app 📱 and web development 🖥️
 - Currently I’m learning PHP 🐘 and React
 
 ## Facts about me
