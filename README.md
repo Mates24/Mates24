@@ -1,11 +1,9 @@
 # Hello, I’m Mathias
-- I'm 19 years old High School student 🏫
+- I'm 20 years old Uni student 🏫
 - Interested in app 📱 and web 🖥️ development
-- Currently I’m learning C# and React
 
 ## Facts about me
-🏒 I play ice hockey for Black Horse in Liptov Hockey League. <br>
-⛵ My second hobby is sailing. I've got rank C captain license.
+⛵ My hobby is sailing. I've got rank C captain license.
 
 ### Interesting motivational quotes
 > You miss 100% of the shots you don't take. - Wayne Gretzky
