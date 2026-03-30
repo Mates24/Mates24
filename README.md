@@ -1,6 +1,6 @@
 # Hello, I’m Mathias
 - I'm 20 years old Uni student 🏫
-- Interested in app 📱 and web 🖥️ development
+- Interested in web 🖥️, app 📱 development and designing
 
 ## Facts about me
 ⛵ My hobby is sailing. I've got rank C captain license.
